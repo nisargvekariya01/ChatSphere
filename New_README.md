@@ -1,5 +1,5 @@
 
-# 📘 README: Server-Client Chat Model & Physical Auction Analogy
+# 📘 README: Server-Client Chat Model
 
 ## 🧠 Technical Explanation of the Server-Client Chat Model
 
