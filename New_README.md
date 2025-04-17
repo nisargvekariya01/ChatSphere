@@ -437,6 +437,22 @@ This document outlines the architectural evolution and feature enhancements betw
   Uses preprocessor-based handling for Windows and Linux compatibility.
   
 ---
+## **How to Run**
+1. **Compile**:
+   ```bash
+   g++ new_server.cpp -o new_server -lws2_32
+   g++ new_client.cpp -o new_client -lws2_32
+   ```
+2. **Start Server**:
+   ```bash
+   ./new_server <Port>(8080)
+   ```
+3. **Start Client**:
+   ```bash
+   ./new_client <IP_Address> <Port>(8080) roomname
+   ```
+   - Enter username, chat, exit with `#exit` or Ctrl+C.
+     
 
 ## Screenshots of the new chat application
 <img src="chat.png" width=70% height=70%>
