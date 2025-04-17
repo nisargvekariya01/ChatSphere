@@ -60,7 +60,7 @@
 ---
 
 ## 🪙 The Physical Auction as a Server-Client System
-<img src="image.png" width=70% height=70%>
+<img src="image.jpg" width=70% height=70%>
 
 
 
