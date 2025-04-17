@@ -9,7 +9,6 @@
 - A centralized program that listens for and manages connections from clients.
 - Hosts the chat service.
 - Routes messages between clients.
-- Enforces rules (e.g., bans, rate limits).
 
 **Client**
 - An endpoint device/program that connects to the server to send/receive data.
