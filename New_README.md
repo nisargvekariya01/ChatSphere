@@ -300,6 +300,7 @@ Connects to the server, sends user messages, and displays received messages.
    ./client
    ```
    - Enter username, chat, exit with `#exit` or Ctrl+C.
+     
 
 ---
 
@@ -434,8 +435,11 @@ This document outlines the architectural evolution and feature enhancements betw
 
 - **Portability**  
   Uses preprocessor-based handling for Windows and Linux compatibility.
-
+  
 ---
+
+## Screenshots of the new chat application
+<img src="chat.png" width=70% height=70%>
 
 ## ✅ Conclusion
 
