@@ -60,7 +60,8 @@
 ---
 
 ## 🪙 The Physical Auction as a Server-Client System
-![WhatsApp Image 2025-04-17 at 13 39 48_82dc4235](https://github.com/user-attachments/assets/b12adda5-13b1-417c-ba42-dace6448a099)
+<img src="image.png" width=70% height=70%>
+
 
 
 Imagine a live auction house—like an art auction or livestock sale. This real-world scenario perfectly mirrors a server-client model, where:
