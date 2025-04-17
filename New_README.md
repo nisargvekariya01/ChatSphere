@@ -399,7 +399,7 @@ This document outlines the architectural evolution and feature enhancements betw
 
 - **Non-blocking Keyboard Input**
   - Real-time input without blocking UI updates.
-  - Supports key events like Enter, Backspace, and arrow keys.
+  - Supports key events like Enter, Backspace.
 
 - **Cross-Platform Compatibility**
   - Works on both Windows and Unix-like systems.
