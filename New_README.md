@@ -456,7 +456,6 @@ This document outlines the architectural evolution and feature enhancements betw
 
 ## Pics of the new chat application
 <img src="chat.png" width=70% height=70%>
-chatvid.mp4
 
 ## ✅ Conclusion
 
