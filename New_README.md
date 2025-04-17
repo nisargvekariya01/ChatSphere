@@ -392,7 +392,6 @@ This document outlines the architectural evolution and feature enhancements betw
 - **Terminal UI Improvements**
   - Colored live input prompt (`->:`).
   - Arrow-key-based scrolling through chat history.
-  - Responsive rendering according to terminal size.
 
 - **User Personalization**
   - Unique color assigned to each user.
