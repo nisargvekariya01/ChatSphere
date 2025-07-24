@@ -23,6 +23,7 @@ Below are some glimpses of ChatSphere in action:
 *The dazzling ASCII welcome screen that greets you upon joining!*
 
 ![Chat Interface](screenshots/chat_interface.png)
+<img src="">
 *The colorful, responsive chat interface with formatted messages and private chats.*
 
 *Note: Screenshots are illustrative. Actual appearance may vary based on your terminal settings.*
@@ -38,8 +39,8 @@ Below are some glimpses of ChatSphere in action:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chatroom-cpp.git
-   cd chatroom-cpp
+   git clone https://github.com/yourusername/ChatSphere.git
+   cd ChatSphere
    ```
 
 2. **Compile the Server**:
