@@ -22,8 +22,7 @@ Below are some glimpses of ChatSphere in action:
 ![Welcome Animation](screenshots/welcome_animation.png)
 *The dazzling ASCII welcome screen that greets you upon joining!*
 
-![Chat Interface](screenshots/chat_interface.png)
-<img src="">
+<img src="chat.png" alt="Chat Interface" width="500px">
 *The colorful, responsive chat interface with formatted messages and private chats.*
 
 *Note: Screenshots are illustrative. Actual appearance may vary based on your terminal settings.*
