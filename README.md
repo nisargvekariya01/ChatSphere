@@ -12,17 +12,12 @@ Welcome to **ChatSphere** 🌟, a dynamic, terminal-based chat application craft
 - 🎬 **Animated Welcome Screen**: Start with a dazzling ASCII art animation.
 - 📜 **Message History**: New users get the full room context upon joining.
 - ⚡ **Non-Blocking I/O**: Smooth, real-time communication with efficient socket handling.
-- 📏 **Responsive Design**: Adapts to your terminal size for a perfect view.
 - ⬆️⬇️ **Scrollable Chat**: Navigate message history with arrow keys.
 
 ## 📸 Screenshots
 
-Below are some glimpses of ChatSphere in action:
-
-![Welcome Animation](screenshots/welcome_animation.png)
-*The dazzling ASCII welcome screen that greets you upon joining!*
-
-<img src="chat.png" alt="Chat Interface" width="500px">
+Below are some glimpses of ChatSphere in action: <br> <br>
+<img src="chat.png" alt="Chat Interface" width="500px"> <br>
 *The colorful, responsive chat interface with formatted messages and private chats.*
 
 *Note: Screenshots are illustrative. Actual appearance may vary based on your terminal settings.*
