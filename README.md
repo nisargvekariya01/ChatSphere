@@ -121,8 +121,4 @@ Please follow the existing code style and include clear comments. 🧑‍💻
 - Built with ❤️ for terminal enthusiasts and C++ coders.
 - Thanks to the open-source community for their amazing tools and libraries! 🙏
 
-## 📬 Contact
-
-Got questions or ideas? Open an issue or reach out to the maintainers at [your.email@example.com](mailto:your.email@example.com). 📧
-
 Happy chatting in the ChatSphere! 🚀💬
